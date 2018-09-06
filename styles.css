@@ -1,0 +1,71 @@
+body {
+	background-color: lightyellow;
+}
+h1 {
+	color:blue;
+}
+h2 {
+	color:red;
+}
+h3 {
+	color:yellow;
+}
+a:hover {
+    background-color: yellow;
+}
+a:active {
+    color: red; font-size: 150%;
+}
+a:visited {
+    color: purple;
+}
+a {
+	display:block;
+}
+p {
+    font-family: verdana;
+    font-size: 30px;
+}
+p.ex {
+	color:crimson;
+}
+span {
+	color:red;
+	font-weight:bold;
+}
+div {
+	color:green;
+	font-size:30px;
+}
+table, th, td {
+    border: 2px solid blue;
+}
+.intro-text {
+	letter-spacing:5px;
+}
+.shadow {
+	text-shadow: 3px 2px red;
+}
+.box    {
+    background-color: lightgrey;
+    width: 300px;
+    border: 10px solid blue;
+    padding: 5px;
+    margin: 25px;
+}
+#welcome-tagline {
+	color:blue
+	font-style:italic;
+}
+#NiceHeader {
+    background-color: lightblue;
+    color: black;
+    padding: 10px;
+    text-align: center;
+}
+#NiceHeader2 {
+    background-color: lightcyan;
+    color: red;
+    padding: 10px;
+    text-align: center;
+}
